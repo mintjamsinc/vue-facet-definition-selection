@@ -1,0 +1,9 @@
+.eslintrc.js
+.project
+build/
+babel.config.js
+dist/bundle.umd.js
+dist/demo.html
+node_modules/
+src/
+vue.config.js

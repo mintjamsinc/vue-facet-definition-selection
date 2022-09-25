@@ -3,7 +3,7 @@
 import Vue from 'vue';
 import FacetDefinitionSelection from './components/FacetDefinitionSelection.vue';
 
-const version = '1.0.0';
+const version = '1.0.1';
 
 const compatible = (/^2\./).test(Vue.version);
 if (!compatible) {

@@ -1,6 +1,6 @@
 {
   "name": "@mintjamsinc/vue-facet-definition-selection",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A reusable FacetDefinitionSelection component for Vue.js 2.x used by webtop applications.",
   "main": "dist/bundle.common.js",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/mintjamsinc/vue-facet-definition-selection#readme",
   "devDependencies": {
-    "@mintjamsinc/webtop-app-commons": "^1.6.0",
+    "@mintjamsinc/webtop-app-commons": "^1.16.0",
     "@vue/cli-plugin-babel": "^4.5.13",
     "@vue/cli-plugin-eslint": "^4.5.13",
     "@vue/cli-service": "^4.5.13",
